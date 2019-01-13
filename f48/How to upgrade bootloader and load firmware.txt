@@ -1,0 +1,15 @@
+1) Place BootloaderUpdater_f48_v1.00.fal on a MicroSD card (32GB or Smaller, formatted Fat32).
+2) Place MicroSD card into controller and apply power.
+3) The application will be loaded and the screen will prompt to remove sd card and power down then up.
+4) Remove SD card.
+5) Power Down/up
+6) The application will replace bootloader.
+
+7) Place .fl2 file MicroSd card 
+8) Power Down/Up
+9) The firmware will install
+10) Remove card when finished and power down/up.
+11) Controller will boot 
+12) ESP Firmware will be sent to ESP. (2 files)
+
+
