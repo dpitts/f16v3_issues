@@ -1,3 +1,6 @@
+Note: When downloading files from Github, click the file then use download button to download. 
+Do not right click file link and save as. It will save an HTML file format not the binary file.
+
 1) Place BootloaderUpdater_f4v3_v1.00.fal on a MicroSD card (32GB or Smaller, formatted Fat32).
 2) Place MicroSD card into controller and apply power.
 3) The application will be loaded and the screen will prompt to remove sd card and power down then up.
