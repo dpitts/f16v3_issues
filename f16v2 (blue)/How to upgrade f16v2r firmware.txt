@@ -1,0 +1,9 @@
+Note: When downloading files from Github, click the file then use download button to download. 
+Do not right click file link and save as. It will save an HTML file format not the binary file.
+
+
+Please use the USB procedure to update firmware.  
+https://www.youtube.com/watch?v=pUOCh_uNT6I
+
+
+
