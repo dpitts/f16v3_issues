@@ -1,0 +1,12 @@
+Note: When downloading files from Github, click the file then use download button to download. 
+Do not right click file link and save as. It will save an HTML file format not the binary file.
+
+
+Please refer to F16v2R product page for USB and Network update procedure. 
+https://www.pixelcontroller.com/store/index.php?id_product=38&controller=product
+
+https://www.youtube.com/watch?v=Dz50rBbgWyw
+https://www.youtube.com/watch?v=pUOCh_uNT6I
+
+
+
